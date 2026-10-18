@@ -6,8 +6,7 @@ App Android per usare un broker MQTT locale, collegarsi a broker MQTT esistenti 
 
 Scarica e installa l'ultima versione disponibile:
 
-[Scarica MQTT Broker-Bridge-Client v1.3](./MQTT-Broker-Bridge-Client-v1.3.apk)
-
+[](https://github.com/gtandem/MQTT-Broker-Bridge-Client/releases/latest)
 Richiede **Android 7.0 (API 24) o successivo**.
 
 Per installare l'APK, apri il file sul dispositivo Android e segui le istruzioni. Se richiesto, consenti al browser o all'app usata per il download di installare app da questa origine.
